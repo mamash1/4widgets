@@ -1,7 +1,7 @@
 import streamlit as st
 import requests, json
 
-api_key = "xxxx-xxxx-xxxx-xxxx" # Enter your API key here
+api_key = "a8dcb5acefdcb38357cf12102169abdc" # Enter your API key here
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 

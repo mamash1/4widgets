@@ -2,7 +2,6 @@ altair==4.1.0
 appdirs==1.4.4
 astor==0.8.1
 attrs==23.1.0
-backports.zoneinfo==0.2.1
 base58==2.1.1
 beautifulsoup4==4.12.2
 blinker==1.7.0
